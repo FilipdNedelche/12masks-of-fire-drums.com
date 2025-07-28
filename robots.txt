@@ -5,4 +5,4 @@ Disallow: /css/
 Disallow: /fonts/
 Disallow: /js/
 
-Sitemap: https://MasksofFireDrumsholdandwin.net/sitemap.xml
+Sitemap: https://12masks-of-fire-drums.com/sitemap.xml
